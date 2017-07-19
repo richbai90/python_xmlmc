@@ -2,7 +2,7 @@
 
 ## Install
 
-Clone this repositiory and run ```bash pip install .```
+Clone this repositiory and run ```pip install .```
 
 ## todo create good documentation
 

@@ -2,7 +2,7 @@
 
 ## Install
 
-Clone this repositiory and run ```pip install .```
+Clone this repositiory and run ```cd python_xmlmc && pip install .```
 
 ## todo create good documentation
 

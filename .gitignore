@@ -1,2 +1,5 @@
 xmlmc_env
 .idea
+*.pyc
+dist
+MANIFEST

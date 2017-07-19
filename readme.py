@@ -4,8 +4,8 @@ To get started import EspSession and MethodCall
 From the Xmlmc Module
 """
 
-from Xmlmc import MethodCall
-from Xmlmc import EspSession
+from xmlmc import MethodCall
+from xmlmc import EspSession
 
 """
 MethodCall is the interface to create requests

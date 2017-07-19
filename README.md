@@ -1,4 +1,4 @@
-### An Xmlmc interface to python
+# An Xmlmc interface to python
 
 ## todo create good documentation
 
